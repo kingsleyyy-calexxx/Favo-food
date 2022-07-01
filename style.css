@@ -1,0 +1,123 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&family=Splash&display=swap');
+
+.container{
+    background-color: grey;
+    width: 100vw;
+    height: 400vh;
+    text-align: center;
+    /*display: flex;*/
+    /*font-size: 4em;*/
+}
+
+.seg-1{
+    /*background-color: orange;*/
+    width: 80vw;
+    height: 50vh;
+    margin: 5px 5px 5px 5px;
+    /*text-align: center;*/
+    font-size: 4em;
+    border: 2px solid white;
+    /*display: flex;*/
+    /*display: flex;*/
+    /*align-items: center;*/
+}
+.seg-1 img{
+    width: 80vw;
+    height: 50vh;
+}
+.seg-1 p{
+    position: absolute;
+    text-align: center;
+    color: white;
+    text-indent: 350px;
+    padding-top: 25vh;
+    font-family: 'Splash', cursive;
+}
+.seg-2{
+    background-color: purple;
+    width: 80vw;
+    height: 50vw;
+    border: 2px solid white;
+    margin: 5px 5px 5px 5px;
+    /*display: flex;*/
+}
+.seg-2 img{
+    width: 30vw;
+    height: 75vh;
+    padding-top: 25vh;
+}
+.seg-2 h1{
+    position: absolute;
+    text-align: center;
+    color: white;
+    text-indent: 500px;
+    padding-top: 7vh;
+    font-size: 50px;
+}
+.seg-2 ul{
+    position: absolute;
+    color: white;
+    font-size: 1em;
+    padding-top: 17.5vh;
+    text-indent: 70px;
+}
+.seg-3{
+    background-color: lightblue;
+    width: 80vw;
+    height: 50vw;
+    border: 2px solid white;
+    margin: 5px 5px 5px 5px;
+    /*display: flex;*/
+}
+.seg-3 img{
+    width: 50vw;
+    height: 75vh;
+    padding-top: 25vh;
+}
+.seg-3 h1{
+    position: absolute;
+    text-align: center;
+    /*color: white;*/
+    text-indent: 450px;
+    padding-top: 3vh;
+    font-size: 50px;
+}
+.seg-3 ul{
+    position: absolute;
+    /*color: white;*/
+    font-size: 1em;
+    padding-top: 17.5vh;
+    text-indent: 70px;
+}
+.seg-4{
+    background-color:yellow;
+    width: 80vw;
+    height: 50vw;
+    border: 2px solid white;
+    margin: 5px 5px 5px 5px;
+    /*display: flex;*/
+}
+.seg-4 img{
+    width: 50vw;
+    height: 75vh;
+    padding-top: 25vh;
+}
+.seg-4 h1{
+    position: absolute;
+    text-align: center;
+    /*color: white;*/
+    text-indent: 450px;
+    padding-top: 3vh;
+    font-size: 50px;
+}
+.seg-4 ul{
+    position: absolute;
+    /*color: white;*/
+    font-size: 1em;
+    padding-top: 17.5vh;
+    text-indent: 13px;
+}
